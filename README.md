@@ -18,11 +18,11 @@ Average Rating Visualization: Interactive display of average customer ratings ac
 Fat Content Analysis: A view of fat content distribution across tier locations.
 
 📌 Tools Used:
-Power BI Desktop
+  Power BI Desktop
 
-DAX for calculated fields
+  DAX for calculated fields
 
-Power Query for data shaping and transformation
+  Power Query for data shaping and transformation
 
 🎯 Learnings:
 Creating KPI cards and slicers
